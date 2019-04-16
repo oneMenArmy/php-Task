@@ -26,7 +26,3 @@
 	    	return 'Is not anagram.';
 	    }
 	}
-
-	$test = anagram('sula', 'sula');
-
-	echo $test;
